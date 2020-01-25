@@ -1,5 +1,4 @@
 #
-%include        /usr/lib/rpm/macros.perl
 Summary:	An overlay for Exim string expansion
 Summary(pl.UTF-8):	Nakładka na Exima w trybie rozwijania wyrażeń
 Name:		exixpand
